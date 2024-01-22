@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PhoneCallDial </string>
+    <string name="contact">Aisyah Amanina</string>
+    <string name="make_a_call">Make a call</string>
+    <string name="phone_number">0138846419</string>
+    <string name="dial_number">"Phone Status: DIALING: "</string>
+</resources>
